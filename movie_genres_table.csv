@@ -1,0 +1,19 @@
+id,genre,movie_id,movie_title
+1,Drama,1,Where Are My Children?
+2,Action,2,Cops
+3,Crime,2,Cops
+4,Reality-TV,2,Cops
+5,Drama,3,Wild Oranges
+6,Romance,3,Wild Oranges
+7,Crime,5,Black Legion
+8,Drama,5,Black Legion
+9,Film-Noir,5,Black Legion
+10,Comedy,6,Strike Up the Band
+11,Musical,6,Strike Up the Band
+12,Romance,6,Strike Up the Band
+13,Drama,7,The Magnificent Ambersons
+14,Romance,7,The Magnificent Ambersons
+15,Drama,8,The Bells of St. Mary's
+16,Drama,10,Samson and Delilah
+17,Family,10,Samson and Delilah
+18,History,10,Samson and Delilah
